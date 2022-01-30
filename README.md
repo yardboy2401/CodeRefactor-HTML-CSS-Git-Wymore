@@ -1,5 +1,7 @@
-# Week1-Homework-Wymore
+# CodeRefactor-HTML/CSS/Git-Wymore
+
 Getting Started
+
 Follow these instructions to create your project and deploy it to GitHub Pages:
 
 Create a new repository on your GitHub account and clone it to your computer.
